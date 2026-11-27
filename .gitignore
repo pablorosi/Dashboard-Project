@@ -1,7 +1,6 @@
-# Datasets
-data/
+# Raw datasets (stored in Google Drive)
+data/raw/
 *.csv
-*.parquet
 
 # Python & virtual environments
 .venv/
@@ -11,3 +10,5 @@ __pycache__/
 # OS & editor files
 .DS_Store
 .vscode/
+
+
