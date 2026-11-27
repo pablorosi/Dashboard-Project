@@ -1,0 +1,13 @@
+# Datasets
+data/
+*.csv
+*.parquet
+
+# Python & virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# OS & editor files
+.DS_Store
+.vscode/
